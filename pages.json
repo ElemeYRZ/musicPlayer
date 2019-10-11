@@ -1,0 +1,28 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "少儿音乐"
+			}
+		},
+		{
+			"path": "pages/new/new",
+			"style": {
+				"navigationBarTitleText": "新歌新专辑"
+			}
+		}, 
+		{
+			"path": "pages/info/info",
+			"style": {
+				"navigationBarTitleText": "少儿音乐"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "少儿音乐",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

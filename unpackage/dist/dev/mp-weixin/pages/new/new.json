@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "新歌新专辑",
+  "usingComponents": {
+    "allplay": "/components/allplay",
+    "playlist": "/components/playlist",
+    "playbot": "/components/playbot",
+    "album": "/components/album"
+  }
+}
